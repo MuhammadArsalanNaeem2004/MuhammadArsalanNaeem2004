@@ -14,6 +14,8 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
   <img src="https://skillicons.dev/icons?i=js" width="50"/>
   <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>   
+  <img src="https://skillicons.dev/icons?i=github" width="50"/> 
 </p>
 
 
@@ -23,12 +25,14 @@
 - MERN Stack
 - Backend Development
 - AI & Web Technologies
+- Git & GitHub (Version Control)
 
 ---
 
 ## 🎯 Goals
 - Become a professional Full-Stack Developer
 - Build real-world projects
+- Collaborate using Git & GitHub
 - Get a job in Software Development
 
 ---
