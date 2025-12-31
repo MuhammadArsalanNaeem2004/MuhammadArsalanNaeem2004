@@ -12,10 +12,10 @@
   <img src="https://skillicons.dev/icons?i=css" width="50"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
-  <img src="https://skillicons.dev/icons?i=js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50"/>
   <img src="https://skillicons.dev/icons?i=git" width="50"/>   
   <img src="https://skillicons.dev/icons?i=github" width="50"/> 
+  <img src="https://skillicons.dev/icons?i=js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
 </p>
 
 
