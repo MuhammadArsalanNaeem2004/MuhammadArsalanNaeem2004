@@ -25,7 +25,6 @@
 - MERN Stack
 - Backend Development
 - AI & Web Technologies
-- Git & GitHub (Version Control)
 
 ---
 
