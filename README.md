@@ -31,7 +31,6 @@
 ## 🎯 Goals
 - Become a professional Full-Stack Developer
 - Build real-world projects
-- Collaborate using Git & GitHub
 - Get a job in Software Development
 
 ---
